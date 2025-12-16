@@ -30,7 +30,7 @@
     font-size: 1.7rem;
     letter-spacing: 1px;
     font-weight: bold;
-     
+    font-family: Ariel;
 
 }
 
@@ -148,3 +148,4 @@
 html {
     scroll-behavior: smooth;
 }
+
